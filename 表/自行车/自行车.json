@@ -1,0 +1,10 @@
+{
+  "bikeId": "", //	停车场id
+  "bikeName": "", //	停车场名称
+  "address": "", //	位置
+  "lng": "", //	经度
+  "lat": "", //	纬度
+  "totalNum": "", //	总数量
+  "parkNum": "", //	停放数量
+  "insTime": "" //	创建时间
+}

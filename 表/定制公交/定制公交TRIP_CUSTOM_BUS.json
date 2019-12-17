@@ -1,0 +1,11 @@
+{
+  "customBusId": "", //	定制公交id
+  "lineName": "", //	线路名称
+  "departTime": "", //	发车时间
+  "beginStation": "", //	开始站点
+  "endStation": "", //	结束站点
+  "lineStatus": "", //	线路状态
+  "voteNum": "", //	投票数量
+  "createId": "", //	创建人
+  "insTime": ""  //	创建时间
+}

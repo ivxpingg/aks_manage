@@ -1,0 +1,7 @@
+{
+  "taxiPositionId": "", //	出租车位置id
+  "taxiDriverId": "", //	司机id
+  "lng": "", //	经度
+  "lat": "", //	维度
+  "insTime": "" //	创建时间
+}

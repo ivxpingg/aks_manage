@@ -1,0 +1,7 @@
+{
+  "taxiDriverId": "", // 司机id
+  "licensePlate": "", // 车牌号码
+  "starNum": "DECIMAL",  // 星级
+  "orderNum": "INT", // 订单数
+  "companyName": "" // 公司名称
+}

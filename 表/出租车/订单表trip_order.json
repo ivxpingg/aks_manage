@@ -1,0 +1,11 @@
+{
+  "orderId": "", // 订单id
+  "userId": "", // 用户id
+  "orderNo": "", //	订单编号
+  "orderType": "", // 订单类型
+  "orderStatus": "", // 订单状态
+  "totalPrice": "", // 订单金额
+  "payTime": "DATE", // 支付时间
+  "insTime": "DATE",  //创建时间
+  "payType": ""  // 支付方式
+}

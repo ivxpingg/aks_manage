@@ -1,0 +1,10 @@
+{
+  "chargePileId": "", //	充电桩id
+  "chargePileName": "", //	充电桩名称
+  "singlePrice": "", //	单价
+  "address": "", //	位置
+  "lng": "", //	经度
+  "lat": "", //	纬度
+  "changePileStatus": "", //	充电桩状态
+  "insTime": ""  //	创建时间
+}

@@ -1,0 +1,9 @@
+{
+  "taxiEvaluateId": "", //	服务评价id
+  "taxiOrderId": "", //	出租车订单id
+  "userId": "", //	用户id
+  "evaluateType": "", //	评价类型【多选】
+  "starNum": "", //	星级
+  "insTime": "", //	创建时间
+  "createId": "" //	评价人
+}

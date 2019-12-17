@@ -1,0 +1,9 @@
+{
+  "stationId": "", //	站点id
+  "customBusId": "", //	定制公交id
+  "departTime": "", //	发车时间
+  "stationName": "", //	站点名称
+  "orderNum": "", //	序号
+  "createId": "", //	创建人
+  "insTime": "" //	创建时间
+}

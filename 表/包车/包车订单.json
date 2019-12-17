@@ -1,0 +1,18 @@
+{
+  "rentCarOrderId": "", //	包车订单id
+  "beginAddress": "", //	起点名称
+  "endAddress": "", //	终点名称
+  "beginTime": "", //	用车开始时间
+  "endTime": "", //	用车结束时间
+  "seatNum": "", //	用车人数
+  "contactsPhone": "", //	联系人电话
+  "contactsName": "", //	联系人
+  "description": "", //	描述
+  "driverName": "", //	司机名称
+  "driverPhone": "", //	司机联系电话
+  "carType": "", //	车辆类型
+  "licensePlate": "", //	车牌号码
+  "invoiceName": "", //	发票名称
+  "invoiceNo": "", //	税号
+  "insTime": "" //	创建时间
+}

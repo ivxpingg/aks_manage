@@ -1,0 +1,9 @@
+{
+  "cardId": "", //	一卡通id
+  "cardName": "", //	一卡通名称
+  "servicePhone": "", //	服务电话
+  "address": "", //	位置
+  "lng": "", //	经度
+  "lat": "", //	纬度
+  "insTime": "" //	创建时间
+}

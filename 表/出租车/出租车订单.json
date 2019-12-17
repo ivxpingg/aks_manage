@@ -1,0 +1,11 @@
+{
+  "taxiOrderId": "", // 	出租车订单id
+  "taxiDriverId": "", //	司机id
+  "beginAddress": "", //	起点名称
+  "beginLng": "", //	起点经度
+  "beginLat": "", //	起点纬度
+  "endAddress": "", //	终点名称
+  "endLng": "", //	终点经度
+  "endLat": "", //	终点纬度
+  "receiveOrderTime": "" //	接单时间
+}
